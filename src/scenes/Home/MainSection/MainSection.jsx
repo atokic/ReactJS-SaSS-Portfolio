@@ -20,7 +20,7 @@ const MainSection = () => {
           <Typewriter
             strings={[
               'Web Developer',
-              'Recently graduated from FESB, Split,',
+              'Recently graduated from FESB, Split.',
               'Learning new skills with projects from tutorials.',
             ]}
             wrapperClassName={s.typewriterWrapper}
