@@ -48,7 +48,7 @@ Illustrator and Adobe InDesign
           marginTop: '1rem',
         }}
       >
-        "Strive to build things that make a difference!"{' '}
+        "There's always room for improvement. That's my mindset."{' '}
       </p>
     </div>
   );

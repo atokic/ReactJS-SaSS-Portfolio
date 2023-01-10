@@ -11,7 +11,7 @@ import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const resumeLink =
-  'https://github.com/atokic/atokic/raw/master/CV_eng%20-%20Ante%20Toki%C4%87.pdf';
+  'https://github.com/atokic/atokic.github.io/raw/master/CV_eng_Ante%20Toki%C4%87.pdf';
 
 const Resume = () => {
   const pdfWrapper = useRef(null);
@@ -69,7 +69,7 @@ const Resume = () => {
               onLoadSuccess={removeTextLayerOffset}
               loading={<LinerProgress />}
               width={pdfPageWidth}
-              pageNumber={1}
+              pageNumber={2}
             />
           </Document>
         </div>
