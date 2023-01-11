@@ -142,12 +142,12 @@ export const PROJECTS = [
     description:
       'Build Booking App using MERN stack',
     image: {
-      src: 'https://lh3.googleusercontent.com/hlWr3kldFII8PAevO_vm3hnp6wowVIZIdDeh4mFYMvjxhLsjGU24jjxH2fmMi0y4Wj8YR9wf2YCleaHJRUFcONV_Ng=w640-h400-e365-rj-sc0x00ffffff',
+      src: 'https://pageflows.com/media/videos/thumbnail_a228d311-cac9-4d6a-84ce-2c196f07d019.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://github.com/atokic/BookingApp',
+      site: 'https://github.com/atokic/MERN-Booking-App',
     },
     technologies: [
       '#React.js',
@@ -174,6 +174,45 @@ export const PROJECTS = [
       '#React.js',
       '#SASS',
       '#Netlify',
+      '#Git'
+    ],
+  },
+  {
+    id: '10',
+    title: 'Python Youtube Downloader and Converter',
+    description:
+      'Python Youtube Downloader and Converter for download multiple YouTube videos in different quality, download playlists or download YouTube video and convert it to .mp3 format.',
+    image: {
+      src: 'https://media.geeksforgeeks.org/wp-content/uploads/20210710104746/ytgfg.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://github.com/atokic/Python-Youtube-Downloader-and-Converter',
+    },
+    technologies: [
+      '#Python',
+      '#Git'
+    ],
+  },
+  {
+    id: '11',
+    title: 'MERN ToDo List App',
+    description:
+      'ToDo List App created using MERN for learning purpose',
+    image: {
+      src: 'https://imageio.forbes.com/specials-images/dam/imageserve/1092571024/960x0.jpg?format=jpg&width=960',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://github.com/atokic/MERN-ToDo-List',
+    },
+    technologies: [
+      '#React.js',
+      '#Node.js',
+      '#Express.js',
+      '#MongoDB',
       '#Git'
     ],
   },
