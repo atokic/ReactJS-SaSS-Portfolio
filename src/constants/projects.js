@@ -128,7 +128,8 @@ export const PROJECTS = [
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://github.com/atokic/ReactJS_Calculator',
+      site: 'https://reactjs-simple-calculator-app.netlify.app/',
+      repo: 'https://github.com/atokic/ReactJS_Calculator'
     },
     technologies: [
       '#React.js',
@@ -159,7 +160,7 @@ export const PROJECTS = [
   },
   {
     id: '9',
-    title: 'ReactJS Portofolio',
+    title: 'ReactJS Portfolio',
     description:
       'A project created using a tutorials in order to learn new skills and knowledge of React.js',
     image: {
@@ -168,7 +169,8 @@ export const PROJECTS = [
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://github.com/atokic/ReactJS_portfolio',
+      site: 'https://portfolio-ante.netlify.app/',
+      repo: 'https://github.com/atokic/ReactJS_portfolio'
     },
     technologies: [
       '#React.js',
@@ -183,7 +185,7 @@ export const PROJECTS = [
     description:
       'Python Youtube Downloader and Converter for download multiple YouTube videos in different quality, download playlists or download YouTube video and convert it to .mp3 format.',
     image: {
-      src: 'https://media.geeksforgeeks.org/wp-content/uploads/20210710104746/ytgfg.png',
+      src: 'https://www.techarge.in/wp-content/uploads/2021/04/Group-3-1-1-1-1.png',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
@@ -213,6 +215,27 @@ export const PROJECTS = [
       '#Node.js',
       '#Express.js',
       '#MongoDB',
+      '#Git'
+    ],
+  },
+    {
+    id: '12',
+    title: 'ReactJS Weather App',
+    description:
+      'A project created using a tutorials in order to learn new skills and knowledge of React.js',
+    image: {
+      src: 'https://miro.medium.com/max/700/1*NR-hMkFMHWqicy6QUa8XxQ.jpeg',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://reactjs-simple-weather.netlify.app/',
+      repo: 'https://github.com/atokic/ReactJS-Weather-App'
+    },
+    technologies: [
+      '#React.js',
+      '#Tailwind',
+      '#Netlify',
       '#Git'
     ],
   },
