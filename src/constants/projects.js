@@ -239,4 +239,24 @@ export const PROJECTS = [
       '#Git'
     ],
   },
+  {
+    id: '13',
+    title: 'ReactJS Random Qoute App',
+    description:
+      'A project created using a tutorials in order to learn new skills and knowledge of React.js',
+    image: {
+      src: 'https://miro.medium.com/max/924/1*8wNWIJh1hPBoGFxLrYlvUQ.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://random-qoute-app.netlify.app/',
+      repo: 'https://github.com/atokic/ReactJS-Random-Qoute-App'
+    },
+    technologies: [
+      '#React.js',
+      '#Netlify',
+      '#Git'
+    ],
+  },
 ];
