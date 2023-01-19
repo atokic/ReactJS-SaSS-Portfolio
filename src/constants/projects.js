@@ -259,4 +259,24 @@ export const PROJECTS = [
       '#Git'
     ],
   },
+    {
+    id: '14',
+    title: 'ReactJS Tic Tac Toe Game',
+    description:
+      'A project created using a tutorials in order to learn new skills and knowledge of React.js',
+    image: {
+      src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/2000px-Tic_tac_toe.svg.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://reactjs-game-tic-tac-toe.netlify.app/',
+      repo: 'https://github.com/atokic/ReactJS-Tic-Tac-Toe-Game'
+    },
+    technologies: [
+      '#React.js',
+      '#Netlify',
+      '#Git'
+    ],
+  },
 ];
