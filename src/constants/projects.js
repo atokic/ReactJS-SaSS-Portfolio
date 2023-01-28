@@ -279,4 +279,25 @@ export const PROJECTS = [
       '#Git'
     ],
   },
+      {
+    id: '15',
+    title: 'ReactJS Restaurant Website',
+    description:
+      'A project created using a tutorials in order to learn new skills and knowledge of React.js',
+    image: {
+      src: 'https://restaurant.eatapp.co/hs-fs/hubfs/Best-restaurant-website-design-inspirations_4_michiramen-3%20(1).jpg?width=1024&name=Best-restaurant-website-design-inspirations_4_michiramen-3%20(1).jpg',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://reactjs-restaurant-website.netlify.app/',
+      repo: 'https://github.com/atokic/ReactJS-Restaurant-Website'
+    },
+    technologies: [
+      '#React.js',
+      '#Netlify',
+      '#Git',
+      '#Figma'
+    ],
+  },
 ];
