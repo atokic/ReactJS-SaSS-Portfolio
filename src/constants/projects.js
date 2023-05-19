@@ -300,4 +300,61 @@ export const PROJECTS = [
       '#Figma'
     ],
   },
+  {
+    id: '16',
+    title: 'Fire Body Say Yes',
+    description:
+      'Built using WordPress.',
+    image: {
+      src: 'https://firebody-say-yes.com/wp-content/uploads/2023/03/Fire_Body_Say_Yes_background.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://firebody-say-yes.com/',
+    },
+    technologies: [
+      '#Wordpress',
+      '#Adobe Photoshop',
+      '#Adobe Illustrator',
+    ],
+  },
+  {
+    id: '17',
+    title: 'Mikis Food & Bar',
+    description:
+      'Builing with WordPress. Currently in progress!',
+    image: {
+      src: 'https://media-cdn.tripadvisor.com/media/photo-s/13/34/4b/5b/ordinary-joe.jpg',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'http://mikis-food.com/',
+    },
+    technologies: [
+      '#Wordpress',
+      '#Adobe Photoshop',
+      '#Adobe Illustrator',
+    ],
+  },
+  {
+    id: '18',
+    title: 'MAK boutique',
+    description:
+      'Builing with WordPress. Currently in progress!',
+    image: {
+      src: 'https://mak-boutique.com/wp-content/uploads/2023/03/MaK_flowers_and_gift_boutique-1024x960.png',
+      placeholderSrc:
+        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+    },
+    links: {
+      site: 'https://mak-boutique.com/',
+    },
+    technologies: [
+      '#Wordpress',
+      '#Adobe Photoshop',
+      '#Adobe Illustrator',
+    ],
+  },
 ];
