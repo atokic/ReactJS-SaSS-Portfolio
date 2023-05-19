@@ -323,7 +323,7 @@ export const PROJECTS = [
     id: '17',
     title: 'Mikis Food & Bar',
     description:
-      'Builing with WordPress. Currently in progress!',
+      'Building with WordPress. Currently in progress!',
     image: {
       src: 'https://media-cdn.tripadvisor.com/media/photo-s/13/34/4b/5b/ordinary-joe.jpg',
       placeholderSrc:
@@ -342,7 +342,7 @@ export const PROJECTS = [
     id: '18',
     title: 'MAK boutique',
     description:
-      'Builing with WordPress. Currently in progress!',
+      'Building with WordPress. Currently in progress!',
     image: {
       src: 'https://mak-boutique.com/wp-content/uploads/2023/03/MaK_flowers_and_gift_boutique-1024x960.png',
       placeholderSrc:
